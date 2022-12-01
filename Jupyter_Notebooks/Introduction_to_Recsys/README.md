@@ -18,6 +18,12 @@ The series is divided into 3 parts:
 
 More information on each part can be found in the descriptions below.
 
+To get started install dependencies by running:
+
+```sh
+pip3 install -r requirements.txt
+```
+
 ### Part 1: Building an Item-Item Recommender with Collaborative Filtering
 
 | |Description |
